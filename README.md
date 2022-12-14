@@ -1,4 +1,4 @@
-# showcase2022
+# Personal Showcase 2022 (GER)
 Personal showcase for projects and other interesting things (currently only in German)
 
 # **Projekte Showcase - Software & Hardware - 2022**
